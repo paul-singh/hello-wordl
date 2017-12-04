@@ -1,4 +1,4 @@
-hello-wordl
+hello-world
 ===========
 
-My first repository
+test repository
